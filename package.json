@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/verfehlix/instapaper-saver#readme",
   "dependencies": {
-    "prompt": "^1.0.0"
+    "prompt": "^1.0.0",
+    "request": "^2.76.0"
   }
 }
