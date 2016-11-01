@@ -1,0 +1,22 @@
+{
+  "name": "instapaper-saver",
+  "version": "1.0.0",
+  "description": "Save multiple URLs to your instapaper via CLI",
+  "main": "ips.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verfehlix/instapaper-saver.git"
+  },
+  "author": "verfehlix",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/verfehlix/instapaper-saver/issues"
+  },
+  "homepage": "https://github.com/verfehlix/instapaper-saver#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
